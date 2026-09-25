@@ -13,25 +13,23 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Soy desarrollador full stack enfocado en construir **software de operación real**: sistemas de cobro de peaje, APIs empresariales, aplicaciones de escritorio con integración de hardware y sitios web corporativos.
+Soy ingeniero en sistemas egresado de la UNAH, me desempeño en desarrollo full stack enfocado en construir **software de operación real**: sistemas de cobro de peaje, APIs empresariales, aplicaciones de escritorio con integración de hardware y sitios web corporativos.
 
-- 🚧 Trabajo en **EKKO**, desarrollando **EKKOTOLL**, una plataforma de gestión de peajes.
-- 🔌 Me gusta integrar software con hardware: impresoras térmicas, puertos serie, Modbus.
-- 🗄️ Tengo experiencia con bases de datos **SQL Server (Azure SQL)**, **PostgreSQL**, **MySQL** y **SQLite**, incluyendo migraciones, sincronización y scripts de corrección de datos.
-- 🌎 Construyo sitios bilingües (español / inglés).
+- Trabajo en ingeniero en sistemas en **EKKO**, desarrollando **EKKOTOLL**, una plataforma de gestión de peajes.
+- Me gusta integrar software con hardware mediante protocolos industriales como modbus.
+- Tengo experiencia con bases de datos **SQL Server (Azure SQL)**, **PostgreSQL**, **MySQL** y **SQLite**, incluyendo migraciones, sincronización y scripts de corrección de datos.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🛣️ EKKOTOLL — Sistema Desktop de Peaje
-🔒 Código privado · 🌐 [ekkohn.com](https://ekkohn.com)
+### EKKOTOLL — Sistema Completo de Peaje desarrollado para **EKKO**
+[ekkohn.com](https://ekkohn.com)
 
 Aplicación de escritorio para operar casetas de peaje, usada por operadores, supervisores y administradores.
 
-- **Electron + React (Vite)** con Material UI, Tailwind y Recharts.
 - Base de datos **local (SQLite)** con **sincronización** a bases en línea (SQL Server / PostgreSQL).
 - Integración de hardware: **impresoras térmicas**, **puerto serie** y **Modbus**.
 - Tiempo real con **Socket.IO**, reportes en **PDF y Excel**, actualizaciones automáticas con `electron-updater`.
@@ -41,8 +39,8 @@ Aplicación de escritorio para operar casetas de peaje, usada por operadores, su
 
 ---
 
-### 🦩 PelicanPass — Telepeaje Inteligente (API y Web)
-🌐 **[ekkopasshn.com](https://ekkopasshn.com)** · 🔒 Código privado
+### PelicanPass — Telepeaje Inteligente (API y Web)
+**[ekkopasshn.com](https://ekkopasshn.com)** ·
 
 Plataforma de telepeaje en Honduras: registro digital, cruce automático con tags, pagos sin efectivo y control de flotas.
 
@@ -55,8 +53,7 @@ Plataforma de telepeaje en Honduras: registro digital, cruce automático con tag
 
 ---
 
-### 🔧 AutoGestion — Gestión de Taller Automotriz
-[`AutoGestion`](https://github.com/EDUARDJ1001/AutoGestion)
+### AutoGestion — Gestión de Taller Automotriz
 
 Sistema web para la administración de un taller mecánico.
 
@@ -68,8 +65,7 @@ Sistema web para la administración de un taller mecánico.
 
 ---
 
-### 🏗️ E & N Solution LLC — Sitio Web Corporativo
-[`ensolutionllc`](https://github.com/EDUARDJ1001/ensolutionllc)
+### E & N Solution LLC — Sitio Web Corporativo
 
 Sitio profesional y bilingüe para una empresa de concreto, remodelación, carpintería y pintura.
 
@@ -80,8 +76,8 @@ Sitio profesional y bilingüe para una empresa de concreto, remodelación, carpi
 
 ---
 
-### 🎨 VIStudio — Tienda en Línea
-🌐 **[vistudiohn.com](https://vistudiohn.com)**
+### VIStudio — Tienda en Línea
+**[vistudiohn.com](https://vistudiohn.com)**
 
 Tienda en línea de productos de sublimación y pantallas LED publicitarias en Puerto Cortés, Honduras.
 
@@ -93,8 +89,8 @@ Tienda en línea de productos de sublimación y pantallas LED publicitarias en P
 
 ---
 
-### 🌐 Sitio Web EKKO
-🌐 **[ekkohn.com](https://ekkohn.com)**
+### Sitio Web EKKO
+**[ekkohn.com](https://ekkohn.com)**
 
 Sitio corporativo de Ekko S. de R.L. de C.V. con páginas de servicios (EKKOTOLL), nosotros y contacto.
 
@@ -115,7 +111,7 @@ Primera versión web del sistema de peaje.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 | Área | Herramientas |
 |---|---|
@@ -128,7 +124,7 @@ Primera versión web del sistema de peaje.
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EDUARDJ1001&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -137,7 +133,7 @@ Primera versión web del sistema de peaje.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.instagram.com/eduardj__"><img src="https://img.shields.io/badge/Instagram-%40eduardj____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
