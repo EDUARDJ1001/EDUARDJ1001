@@ -27,7 +27,7 @@ Soy desarrollador full stack enfocado en construir **software de operación real
 ## 🚀 Proyectos destacados
 
 ### 🛣️ EKKOTOLL — Sistema Desktop de Peaje
-[`peaje-desktop`](https://github.com/EDUARDJ1001/peaje-desktop)
+🔒 Código privado · 🌐 [ekkohn.com](https://ekkohn.com)
 
 Aplicación de escritorio para operar casetas de peaje, usada por operadores, supervisores y administradores.
 
@@ -41,10 +41,10 @@ Aplicación de escritorio para operar casetas de peaje, usada por operadores, su
 
 ---
 
-### 🦩 Pelican Pass — API y Web
-[`pelican-pass-api`](https://github.com/zarcolini/pelican-pass-api) · `pelican-pass-web`
+### 🦩 PelicanPass — Telepeaje Inteligente (API y Web)
+🌐 **[ekkopasshn.com](https://ekkopasshn.com)** · 🔒 Código privado
 
-Plataforma de peaje electrónico con tags para clientes.
+Plataforma de telepeaje en Honduras: registro digital, cruce automático con tags, pagos sin efectivo y control de flotas.
 
 - **API REST** en Node.js + Express con autenticación **JWT** y login social (**Google / Facebook** vía Passport).
 - Seguridad con Helmet, rate limiting y validación de datos; documentación con **Swagger**.
@@ -80,7 +80,22 @@ Sitio profesional y bilingüe para una empresa de concreto, remodelación, carpi
 
 ---
 
+### 🎨 VIStudio — Tienda en Línea
+🌐 **[vistudiohn.com](https://vistudiohn.com)**
+
+Tienda en línea de productos de sublimación y pantallas LED publicitarias en Puerto Cortés, Honduras.
+
+- Catálogo de camisetas personalizadas, tazas y letreros LED.
+- **Configurador de pantallas LED** para cotizar a la medida.
+- Envíos a todo Honduras.
+
+`React` `Vite` `Vercel`
+
+---
+
 ### 🌐 Sitio Web EKKO
+🌐 **[ekkohn.com](https://ekkohn.com)**
+
 Sitio corporativo de Ekko S. de R.L. de C.V. con páginas de servicios (EKKOTOLL), nosotros y contacto.
 
 - **React + Vite + React Router**, versión español / inglés.
