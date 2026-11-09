@@ -65,17 +65,6 @@ Sistema web para la administración de un taller mecánico.
 
 ---
 
-### E & N Solution LLC — Sitio Web Corporativo
-
-Sitio profesional y bilingüe para una empresa de concreto, remodelación, carpintería y pintura.
-
-- Galería de proyectos, **cotizador de servicios** y panel de administración.
-- Backend con **Supabase** y funciones de IA con **Gemini**.
-
-`React` `TypeScript` `Tailwind` `Supabase` `Gemini API`
-
----
-
 ### VIStudio — Tienda en Línea
 **[vistudiohn.com](https://vistudiohn.com)**
 
