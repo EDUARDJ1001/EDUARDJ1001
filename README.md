@@ -89,6 +89,20 @@ Tienda en línea de productos de sublimación y pantallas LED publicitarias en P
 
 ---
 
+### Lomas del Puerto — Venta de Lotes de Terreno
+**[lomasdelpuertohn.vercel.app](https://lomasdelpuertohn.vercel.app)** · [`lomas-del-puerto`](https://github.com/EDUARDJ1001/lomas-del-puerto)
+
+Sitio para la venta de lotes residenciales en Barrio Lomas del Puerto, Puerto Cortés, con vista pública y panel de administración.
+
+- **Mapa interactivo** con los 53 lotes del plano de lotificación sobre un mapa real (relieve y satélite) con **Leaflet**.
+- Cada lote muestra su estado (**disponible**, **reservado** o **vendido**), precio, medidas y fotos, con botón de contacto por **WhatsApp**.
+- **Panel de administración** con inicio de sesión para cambiar la disponibilidad de los lotes al momento, editar sus datos y gestionar fotos.
+- Enlaces por lote con vista previa para compartir en WhatsApp y Facebook.
+
+`JavaScript` `HTML/CSS` `Leaflet` `Supabase` `Vercel`
+
+---
+
 ### Sitio Web EKKO
 **[ekkohn.com](https://ekkohn.com)**
 
@@ -115,7 +129,7 @@ Primera versión web del sistema de peaje.
 
 | Área | Herramientas |
 |---|---|
-| **Frontend** | React, Next.js, Vite, Tailwind CSS, Material UI, Three.js, Recharts |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Material UI, Three.js, Recharts, Leaflet |
 | **Backend** | Node.js, Express, Socket.IO, JWT, Passport, Swagger |
 | **Desktop** | Electron, electron-builder, electron-updater |
 | **Bases de datos** | SQL Server / Azure SQL, PostgreSQL, MySQL, SQLite, Redis, Supabase |
